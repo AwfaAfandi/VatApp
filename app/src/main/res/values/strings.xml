@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VatApp</string>
+    <string name="cost_of_service">cost of service</string>
+    <string name="select_vat_percentage">Select Vat Percentage</string>
+    <string name="_10">10%</string>
+    <string name="_15">15%</string>
+    <string name="_20">20%</string>
+    <string name="round_up_total">round up total ?? </string>
+    <string name="calculate_vat">calculate Vat</string>
+</resources>
