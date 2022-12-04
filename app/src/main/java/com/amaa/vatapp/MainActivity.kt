@@ -31,10 +31,7 @@ private fun calculateVat() {
             else -> 0.20
         }
         var vat = vatPercentage * cost
-
         var total = cost + vat
-
-
         val roundVat = binding.roundUpSwitch.isChecked
 
         if (roundVat){
@@ -45,5 +42,4 @@ private fun calculateVat() {
         binding.totaltext.text = getString(R.string.total_amount, formattedTotal)
 
     }
-
 }
