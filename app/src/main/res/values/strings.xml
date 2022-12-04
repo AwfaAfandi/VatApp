@@ -7,4 +7,5 @@
     <string name="_20">20%</string>
     <string name="round_up_total">round up total ?? </string>
     <string name="calculate_vat">calculate Vat</string>
+    <string name="total_amount">Total Amount : %s </string>
 </resources>
